@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>io.github.jaxsh.intra-mart</groupId>
+  <artifactId>io.github.jaxsh.intra-mart.gradle.plugin</artifactId>
+  <version>0.1.0</version>
+  <packaging>pom</packaging>
+  <name>intra-mart Accel Platform</name>
+  <description>Builds intra-mart Accel Platform web applications without IM-Juggling: resolves the platform modules for a given version (with patches), assembles the WAR exactly like the official tool, compiles against the official Maven BOM, and runs a local Resin for development.</description>
+  <dependencies>
+    <dependency>
+      <groupId>io.github.jaxsh</groupId>
+      <artifactId>intra-mart-gradle</artifactId>
+      <version>0.1.0</version>
+    </dependency>
+  </dependencies>
+</project>
