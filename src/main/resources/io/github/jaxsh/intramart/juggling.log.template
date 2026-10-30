@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8"><title>Assembly summary</title></head>
+<body>
+<h1>Assembly summary</h1>
+<p>Assembled by the intra-mart-gradle plugin (io.github.jaxsh.intra-mart) at @TIMESTAMP@.</p>
+<p>Module selection and order: WEB-INF/juggling.im, WEB-INF/juggling.structure.txt.</p>
+</body></html>
